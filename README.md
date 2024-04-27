@@ -1,8 +1,5 @@
 # surf_with_hands
 
-(manque IA pour reconnaitre des signes avec du ML)
-
-
 
 This is a Python script that allows you to use your hand as a virtual mouse and perform different actions such as left click, right click and move the cursor using hand gestures. The script is built using the following libraries:
 
