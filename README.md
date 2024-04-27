@@ -1,7 +1,7 @@
 # surf_with_hands
 
 
-This is a Python script that allows you to use your hand as a virtual mouse and perform different actions such as left click, right click and move the cursor using hand gestures. The script is built using the following libraries:
+##This is a Python script that allows you to use your hand as a virtual mouse and perform different actions such as left click, right click and move the cursor using hand gestures. The script is built using the following libraries:
 
 OpenCV - used for capturing and processing video frames.
 Mediapipe - used for detecting and tracking hand landmarks.
@@ -10,7 +10,7 @@ cvzone - used for detecting hand gestures.
 SpeechRecognition - used for recognizing speech commands.
 
 
-Requirements:
+##Requirements:
 
 Python 3.x
 OpenCV
@@ -20,7 +20,7 @@ cvzone
 SpeechRecognition
 
 
-How to use:
+##How to use:
 
 Clone the repository or download the zip file and extract it.
 Install the required libraries using the command: pip install -r requirements.txt
@@ -35,7 +35,7 @@ Other gestures: Nothing happens
 
 Note: To exit the script, press the 'c' key on the keyboard.
 
-Speech recognition:
+##Speech recognition:
 
 The script also includes a feature to recognize speech commands. To use this feature, uncomment the following code in the script:
 
