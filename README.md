@@ -4,30 +4,23 @@
 
 Surf With Hands is a Python script that transforms your hand into a virtual mouse, allowing you to use hand gestures to control your computer's cursor and perform various actions like clicking and moving. This script leverages multiple libraries for video capture, hand landmark detection, mouse control simulation and even speech recognition for voice commands.
 
-## Built With
+- **OpenCV**: Capturing and processing video frames.
+- **Mediapipe**: Detecting and tracking hand landmarks.
+- **PyAutoGUI**: Simulating mouse movements and clicks.
+- **cvzone**: Detecting hand gestures.
+- **SpeechRecognition**: Recognizing speech commands.
 
-OpenCV - used for capturing and processing video frames.
-Mediapipe - used for detecting and tracking hand landmarks.
-PyAutoGUI - used for simulating mouse movement and clicks.
-cvzone - used for detecting hand gestures.
-SpeechRecognition - used for recognizing speech commands.
-
-
-## Requirements:
-
-Python 3.x
-OpenCV
-Mediapipe
-PyAutoGUI
-cvzone
-SpeechRecognition
+## Requirements
+- Python 3.x
+- OpenCV
+- Mediapipe
+- PyAutoGUI
+- cvzone
+- SpeechRecognition
 
 
 ## How to use:
 
-Clone the repository or download the zip file and extract it.
-Install the required libraries using the command: pip install -r requirements.txt
-Run the script using the command: python virtual_mouse.py
 Place your hand in front of the camera and use the following gestures to perform different actions:
 Fist: Right click
 Index finger extended: Move the cursor
