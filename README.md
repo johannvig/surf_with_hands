@@ -52,3 +52,8 @@ with sr.Microphone() as source:
         pyautogui.typewrite(text)
     except:
         print("Sorry could not recognize what you said")
+
+
+
+
+![image](https://github.com/johannvig/surf_without_hands/assets/102874093/c499f5fd-5736-4659-aa93-077d05c27358)
