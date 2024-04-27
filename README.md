@@ -1,7 +1,10 @@
 # surf_with_hands
 
+## Description
 
-## This is a Python script that allows you to use your hand as a virtual mouse and perform different actions such as left click, right click and move the cursor using hand gestures. The script is built using the following libraries:
+Surf With Hands is a Python script that transforms your hand into a virtual mouse, allowing you to use hand gestures to control your computer's cursor and perform various actions like clicking and moving. This script leverages multiple libraries for video capture, hand landmark detection, mouse control simulation and even speech recognition for voice commands.
+
+## Built With
 
 OpenCV - used for capturing and processing video frames.
 Mediapipe - used for detecting and tracking hand landmarks.
