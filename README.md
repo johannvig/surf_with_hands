@@ -22,8 +22,8 @@ Surf With Hands is a Python script that transforms your hand into a virtual mous
 ## How to use:
 
 Place your hand in front of the camera and use the following gestures to perform different actions:
-- **Fist**:Right click
-- **Index finger extended**:Move the cursor
+- **Fist**: Right click
+- **Index finger extended**: Move the cursor
 - **Thumb and index finger extended**: Left click
 - **All fingers extended**: Enter mouse mode and use the index finger to move the cursor
 - **Other gestures**: Nothing happens
